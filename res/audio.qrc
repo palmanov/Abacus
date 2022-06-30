@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/effect5.wav</file>
+        <file>audio/effect4.wav</file>
+        <file>audio/effect3.wav</file>
+        <file>audio/effect2.wav</file>
+        <file>audio/effect1.wav</file>
+    </qresource>
+</RCC>
