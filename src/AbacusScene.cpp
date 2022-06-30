@@ -1,5 +1,7 @@
 #include "AbacusScene.h"
 
+#include <array>
+
 #include <QGraphicsSceneMouseEvent>
 #include <QGraphicsView>
 #include <QTimeLine>
